@@ -34,7 +34,7 @@ I created Dax measures to generate performance measures
 - Avg tenure of attrited employee
  ## 💡INSIGHTS
 
-- About 1,470 total count of employee 588 female and 882 male , 237(16%) of employee has left the company 
+- About 1,470 total count of employee, (16%) of employee has left the company which is a total of 150 Male and 87 Female
 - Research and development department experience most attrition of 56.12%
 - Employee within the age of 25-34 left which implies that younger employees may be seeking for better career growth, pay or flexibility 
 - Most Attrition happened within the first 5 years of employment pointing possible issues in onboarding or Job role clarity 
