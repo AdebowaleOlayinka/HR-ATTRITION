@@ -28,12 +28,35 @@ Data import and cleaning: I imported the data set into power BI and performed da
 
 I created Dax measures to generate performance measures
 
-- Total Employee 
+- Total Employee
+```
+  Total Employee= Sum('Hr data'[Employee count])
+```
 - Attrition Rate
-- Current Employee 
+```
+Attrition Rate= Sum('Hr data'[Attrition count]/sum ('Hr data'[Employee count])
+```
+- Current Employee
+```
+ Current Employee= Sum('Hr data'[ Current Employee ])
+```
 - Average Age
-- Avg monthly income 
+ ```
+Average age= Average ('Hr data'[Age])
+```
+- Avg monthly income
+```
+Avg Monthly income= Average ('Hr data'[Monthly income])
+```
 - Avg tenure of attrited employee
+```
+Avg Tenure = Calculate(average('Hr data'[Years at company],'Hr data'[Attrition]="yes")
+```
+- Attrition count
+```
+Attrition count= Calculate(sum('Hr data'[Employee count],'Hr data'[Attrition]="yes")
+```
+
  ## 💡INSIGHTS
 
 - About 1,470 total count of employee, (16%) of employee has left the company which is a total of 150 Male and 87 Female
