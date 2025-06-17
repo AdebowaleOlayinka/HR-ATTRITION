@@ -67,7 +67,7 @@ Attrition count= Calculate(sum('Hr data'[Employee count],'Hr data'[Attrition]="y
 - Employee who left were not satisfied with the job as laboratory technicians has the highest attrition count due to low monthly salary.
 ### 🎯RECOMMENDATIONS 
 
-- Employee with long distance from home, consider remote/hybrid work or consider transport allowance where remote work isn't feasible 
+- Employee with long distance from home, consider remote/hybrid work or transport allowance where remote work isn't feasible 
 - Improve pay scale by offering overtime payment and bonuses
 - Recognize and award prize to employee regularly and offer promotion to high performers
 ## DASHBOARD 
