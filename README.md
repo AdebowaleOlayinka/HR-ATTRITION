@@ -1,4 +1,6 @@
-# HR ATTRITION
+# HR ATTRITION ANALYSIS 
+![1000257046](https://github.com/user-attachments/assets/a2c7ccaf-a9b0-493d-8f34-47e1e85591e2)
+
 ## PROJECT OVERVIEW 
 The  HR Attrition dashboard uncovers potential cause of attrition rate based on job satisfaction, salary and job roles. High Attrition rate can lead to negative impact in business productivity. The project analysis help the human resources team with actionable insight and understand why employees tends to leave the organization and also to develop and improve work space satisfaction, employee retention and organization performance 
 
