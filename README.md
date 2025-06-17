@@ -32,7 +32,7 @@ I created Dax measures to generate performance measures
 - Average Age
 - Avg monthly income 
 - Avg tenure of attrited employee
-## INSIGHTS
+ ## 💡INSIGHTS
 
 - About 1,470 total count of employee 588 female and 882 male , 237(16%) of employee has left the company 
 - Research and development department experience most attrition of 56.12%
@@ -40,7 +40,7 @@ I created Dax measures to generate performance measures
 - Most Attrition happened within the first 5 years of employment pointing possible issues in onboarding or Job role clarity 
 - Employee who lives far away from office is one of the main reasons for attrition 
 - Employee who left were not satisfied with the job as laboratory technicians has the highest attrition count due to low monthly salary.
-## RECOMMENDATIONS 
+### 🎯RECOMMENDATIONS 
 
 - Employee with long distance from home, consider remote/hybrid work or consider transport allowance where remote work isn't feasible 
 - Improve pay scale by offering overtime payment and bonuses
