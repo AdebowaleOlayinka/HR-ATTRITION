@@ -57,6 +57,8 @@ Avg Tenure = Calculate(average('Hr data'[Years at company],'Hr data'[Attrition]=
 Attrition count= Calculate(sum('Hr data'[Employee count],'Hr data'[Attrition]="yes")
 ```
 
+## DASHBOARD 
+![hr attrition](https://github.com/user-attachments/assets/709a839b-f093-445f-b0de-d7a6bc7ca1ca)
  ## 💡INSIGHTS
 
 - About 1,470 total count of employee, (16%) of employee has left the company which is a total of 150 Male and 87 Female
@@ -70,5 +72,3 @@ Attrition count= Calculate(sum('Hr data'[Employee count],'Hr data'[Attrition]="y
 - Employee with long distance from home, consider remote/hybrid work or transport allowance where remote work isn't feasible 
 - Improve pay scale by offering overtime payment and bonuses
 - Recognize and award prize to employee regularly and offer promotion to high performers
-## DASHBOARD 
-![hr attrition](https://github.com/user-attachments/assets/709a839b-f093-445f-b0de-d7a6bc7ca1ca)
